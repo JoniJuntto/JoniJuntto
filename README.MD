@@ -27,7 +27,10 @@ Welcome! I'm Joni Juntto, a Senior Fullstack Developer passionate about building
 
 ## 💼 Notable Projects
 
+Velho,TypeScript-first toolkit for building Twitch integrations. [Velho](https://github.com/JoniJuntto/velho)
+Fiksaten Mobile apps and API [Fiksaten](https://fiksaten.fi)
 Explore my work with [Pohina Group](https://pohina.group)
+Makkara chat, chat with your repo [Makkara chat](https://www.makkara.chat)
 
 ---
 
