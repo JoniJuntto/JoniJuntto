@@ -1,13 +1,10 @@
-# Joni Juntto — Senior Fullstack Developer
+# Joni Juntto — CTO & Founder
 
-Welcome! I'm Joni Juntto, a Senior Fullstack Developer passionate about building. 
+Welcome! I'm Joni Juntto, a CTO & Founder, passionate about building. 
 
 ---
 
 ## 🚀 About Me
-
-- **Role:** Senior Fullstack Developer
-- **Certified Scrum Master**
 - **BBA in IT**
 - **Currently studying MBA in IT**
 - **Soccer Referee** (when not coding)
@@ -17,26 +14,25 @@ Welcome! I'm Joni Juntto, a Senior Fullstack Developer passionate about building
 
 ## 🛠️ Tech Stack
 
-- **Languages:** TypeScript, JavaScript, Python, Java, Kotlin
+- **Languages:** TypeScript, JavaScript, Python, Java, Kotlin, Swift
 - **Frontend:** React, Next.js, React Native, Expo
-- **Backend:** Hono, SST (Serverless Stack), Serverless Framework, Express
-- **ORM/DB:** Drizzle, Postgres, Mongo, Prisma
-- **Cloud:** AWS, Google Cloud
+- **Backend:** Hono, SST (Serverless Stack), Serverless Framework, Express, Elysia
+- **ORM/DB:** Drizzle, Postgres, Mongo, Prisma, kysely
+- **Cloud:** AWS, Google Cloud, UpCloud, Azure
 
 ---
 
 ## 💼 Notable Projects
-
+VISP https://visp-stream.com
 Velho,TypeScript-first toolkit for building Twitch integrations. [Velho](https://github.com/JoniJuntto/velho)
 Fiksaten Mobile apps and API [Fiksaten](https://fiksaten.fi)
 Explore my work with [Pohina Group](https://pohina.group)
-Makkara chat, chat with your repo [Makkara chat](https://www.makkara.chat)
+
 
 ---
 
 ## 🎓 Achievements & Certifications
 
-- Certified Scrum Master
 - BBA in IT
 - Currently studying MBA in IT
 
